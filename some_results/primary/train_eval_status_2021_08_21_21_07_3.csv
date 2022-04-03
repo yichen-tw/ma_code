@@ -1,0 +1,5 @@
+Epoch,Training Loss,Evaluation Loss,Training Accuracy,Evaluation Accuracy,Training Time,Evaluation Time
+1,0.29346,0.2074,0.92308,0.95,0:00:39,0:00:01
+2,0.1143,0.27268,0.97115,0.95,0:00:39,0:00:01
+3,0.0966,0.30185,0.97756,0.95,0:00:39,0:00:01
+4,0.08437,0.3394,0.97756,0.95,0:00:39,0:00:01
